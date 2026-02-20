@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "(request)もう一度夜を止めて",
+  "base_artist": "崎谷健次郎",
+  "createdAt": "2026-02-20T00:15:26.475206Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "(request)もう一度夜を止めて",
+      "artist": "崎谷 健次郎",
+      "has_synced": false,
+      "path": "select/pl_01_(request)もう一度夜を止めて_崎谷_健次郎.txt"
+    }
+  ]
+}
